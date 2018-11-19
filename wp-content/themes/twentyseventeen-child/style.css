@@ -10,6 +10,23 @@ Version: 0.1.0
 
 /*test*/
 p {
-    color: pink;
+    color: red;
+    font-family: "PT Serif"
 }
 
+.site-branding {display:none}
+.metaslider .caption,
+.metaslider .cs-title,
+.metaslider .nivo-caption { font-size: 0.5em }
+label { color : #767676;
+ font-weight : 400}
+.main-navigation a:hover {
+    color: #767676;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    background-color: #767676;
+    color: white;
+}
+input.wpcf7-form-control.wpcf7-submit:hover {
+    background-color: black;
+	color: white; }

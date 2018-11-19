@@ -1,0 +1,1 @@
+[19-Nov-2018 19:35:51 UTC] PHP Fatal error:  Cannot redeclare my_google_fonts() (previously declared in /Users/student/Desktop/soundblogChildrk/wp-content/themes/twentyseventeen-child/functions.php:13) in /Users/student/Desktop/soundblogChildrk/wp-content/themes/twentyseventeen-child/functions.php on line 20
